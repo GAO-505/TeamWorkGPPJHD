@@ -36,13 +36,8 @@ void merge_sort_recursion(vector<T>& data, int right, vector<T>& temp, int left)
 
 }
 
-vector<int> merge_sort_by_iliushik(vector<int> data) {
+vector<int> merge_sort_by_Name(vector<int> data) {
     vector<int> temp(data.size());
-    merge_sort_recursion(data, data.size() - 1, temp, 0);
-    return data;
-}
-vector<double> merge_sort_by_iliushik(vector<double> data) {
-    vector<double> temp(data.size());
     merge_sort_recursion(data, data.size() - 1, temp, 0);
     return data;
 }

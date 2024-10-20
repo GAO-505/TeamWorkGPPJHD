@@ -50,11 +50,7 @@ void heap_sort(vector<T>& to_sort) {
     }
 }
 
-vector<int> heapsort_by_polyakov(vector<int> to_sort) {
-    heap_sort(to_sort);
-    return to_sort;
-}
-vector<double> heapsort_by_polyakov(vector<double> to_sort) {
+vector<int> heapsort_by_Name(vector<int> to_sort) {
     heap_sort(to_sort);
     return to_sort;
 }

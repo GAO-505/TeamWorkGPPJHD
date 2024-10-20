@@ -67,10 +67,10 @@ int main()
             team = "std";
             RUN(sort_by_std);
             team = "GazdikTeam";
-            RUN(merge_sort_by_iliushik);
-            RUN(heapsort_by_polyakov);
-            RUN(quick_sort_by_Shabalinov);
-            RUN(shellsort_by_kamenshchikov);
+            RUN(merge_sort_by_Name);
+            RUN(heapsort_by_Name);
+            RUN(quick_sort_by_Name);
+            RUN(shellsort_by_Name);
 
             intDataSets.pop();
         }

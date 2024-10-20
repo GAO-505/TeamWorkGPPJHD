@@ -2,16 +2,16 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="TeamWorkGPJHPD.cpp" />
-    <ClCompile Include="heap_sort_by_Polyakov.cpp">
+    <ClCompile Include="heap_sort_by_Name.cpp">
       <Filter>SortAlgoritms</Filter>
     </ClCompile>
-    <ClCompile Include="merge_sort_by_Iliushkin.cpp">
+    <ClCompile Include="merge_sort_by_Name.cpp">
       <Filter>SortAlgoritms</Filter>
     </ClCompile>
-    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp">
+    <ClCompile Include="shell_sort_by_Name.cpp">
       <Filter>SortAlgoritms</Filter>
     </ClCompile>
-    <ClCompile Include="quick_sort_by_Shabalinov.cpp">
+    <ClCompile Include="quick_sort_by_Name.cpp">
       <Filter>SortAlgoritms</Filter>
     </ClCompile>
     <ClCompile Include="std_sort.cpp">

@@ -25,11 +25,7 @@ int shellSort(vector<T>& mas)
 }
 
 
-vector<int> shellsort_by_kamenshchikov(vector<int> to_sort) {
-    shellSort(to_sort);
-    return to_sort;
-}
-vector<double> shellsort_by_kamenshchikov(vector<double> to_sort) {
+vector<int> shellsort_by_Name(vector<int> to_sort) {
     shellSort(to_sort);
     return to_sort;
 }
