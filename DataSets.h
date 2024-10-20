@@ -1,6 +1,7 @@
 #pragma once
 #include <vector>
 #include <string>
+#include <climits>
 
 //datasets by TM
 std::vector<int> GenerateData(int size, int max_value = INT_MAX);
