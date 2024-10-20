@@ -1,0 +1,60 @@
+"IVC data sequential reverse"	497	std	sort	std	212
+"IVC data sequential reverse"	497	PolyakovTeam	merge_sort	iliushik	318
+"IVC data sequential reverse"	497	PolyakovTeam	heapsort	polyakov	391
+"IVC data sequential reverse"	497	PolyakovTeam	quick_sort	shabalinov	217
+"IVC data sequential reverse"	497	PolyakovTeam	shellsort	kamenshchikov	306
+"IVC data forward"	501	std	sort	std	98
+"IVC data forward"	501	PolyakovTeam	merge_sort	iliushik	276
+"IVC data forward"	501	PolyakovTeam	heapsort	polyakov	412
+"IVC data forward"	501	PolyakovTeam	quick_sort	shabalinov	6140
+"IVC data forward"	501	PolyakovTeam	shellsort	kamenshchikov	132
+"inverse sorted array"	99	std	sort	std	28
+"inverse sorted array"	99	PolyakovTeam	merge_sort	iliushik	51
+"inverse sorted array"	99	PolyakovTeam	heapsort	polyakov	53
+"inverse sorted array"	99	PolyakovTeam	quick_sort	shabalinov	123
+"inverse sorted array"	99	PolyakovTeam	shellsort	kamenshchikov	34
+"partially sorted array"	100	std	sort	std	20
+"partially sorted array"	100	PolyakovTeam	merge_sort	iliushik	50
+"partially sorted array"	100	PolyakovTeam	heapsort	polyakov	67
+"partially sorted array"	100	PolyakovTeam	quick_sort	shabalinov	217
+"partially sorted array"	100	PolyakovTeam	shellsort	kamenshchikov	23
+"already sorted array"	20	std	sort	std	13
+"already sorted array"	20	PolyakovTeam	merge_sort	iliushik	20
+"already sorted array"	20	PolyakovTeam	heapsort	polyakov	16
+"already sorted array"	20	PolyakovTeam	quick_sort	shabalinov	11
+"already sorted array"	20	PolyakovTeam	shellsort	kamenshchikov	11
+"minus integer"	100	std	sort	std	46
+"minus integer"	100	PolyakovTeam	merge_sort	iliushik	130
+"minus integer"	100	PolyakovTeam	heapsort	polyakov	62
+"minus integer"	100	PolyakovTeam	quick_sort	shabalinov	33
+"minus integer"	100	PolyakovTeam	shellsort	kamenshchikov	40
+"random integer 1000"	1000	std	sort	std	538
+"random integer 1000"	1000	PolyakovTeam	merge_sort	iliushik	803
+"random integer 1000"	1000	PolyakovTeam	heapsort	polyakov	958
+"random integer 1000"	1000	PolyakovTeam	quick_sort	shabalinov	474
+"random integer 1000"	1000	PolyakovTeam	shellsort	kamenshchikov	825
+"random integer 100"	100	std	sort	std	57
+"random integer 100"	100	PolyakovTeam	merge_sort	iliushik	91
+"random integer 100"	100	PolyakovTeam	heapsort	polyakov	80
+"random integer 100"	100	PolyakovTeam	quick_sort	shabalinov	32
+"random integer 100"	100	PolyakovTeam	shellsort	kamenshchikov	64
+"random integer 10"	10	std	sort	std	11
+"random integer 10"	10	PolyakovTeam	merge_sort	iliushik	14
+"random integer 10"	10	PolyakovTeam	heapsort	polyakov	111
+"random integer 10"	10	PolyakovTeam	quick_sort	shabalinov	49
+"random integer 10"	10	PolyakovTeam	shellsort	kamenshchikov	9
+"Same numbers"	1000	std	sort	std	56
+"Same numbers"	1000	PolyakovTeam	merge_sort	iliushik	655
+"Same numbers"	1000	PolyakovTeam	heapsort	polyakov	154
+"Same numbers"	1000	PolyakovTeam	quick_sort	shabalinov	19010
+"Same numbers"	1000	PolyakovTeam	shellsort	kamenshchikov	249
+"Swapped first and last"	1000	std	sort	std	250
+"Swapped first and last"	1000	PolyakovTeam	merge_sort	iliushik	609
+"Swapped first and last"	1000	PolyakovTeam	heapsort	polyakov	836
+"Swapped first and last"	1000	PolyakovTeam	quick_sort	shabalinov	18388
+"Swapped first and last"	1000	PolyakovTeam	shellsort	kamenshchikov	251
+"zeros by tm"	3	std	sort	std	6
+"zeros by tm"	3	PolyakovTeam	merge_sort	iliushik	8
+"zeros by tm"	3	PolyakovTeam	heapsort	polyakov	5
+"zeros by tm"	3	PolyakovTeam	quick_sort	shabalinov	5
+"zeros by tm"	3	PolyakovTeam	shellsort	kamenshchikov	4

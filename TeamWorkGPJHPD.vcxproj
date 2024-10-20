@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="heap_sort_by_Polyakov.cpp" />
+    <ClCompile Include="merge_sort_by_Iliushkin.cpp" />
+    <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
+    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp" />
+    <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="TeamWorkGPJHPD.cpp" />
+    <ClCompile Include="DataGenerators.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Data.h" />
+    <ClInclude Include="Algoritms.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

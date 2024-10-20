@@ -2,5 +2,39 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="TeamWorkGPJHPD.cpp" />
+    <ClCompile Include="heap_sort_by_Polyakov.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort_by_Iliushkin.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort_by_Shabalinov.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="std_sort.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="DataGenerators.cpp">
+      <Filter>Data</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Data.h">
+      <Filter>Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Algoritms.h">
+      <Filter>SortAlgoritms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="SortAlgoritms">
+      <UniqueIdentifier>{7dd17d66-523c-4596-bfb1-1f9e9308d6ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{b417bb3f-60a0-4cee-b196-72e5a5363f86}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
