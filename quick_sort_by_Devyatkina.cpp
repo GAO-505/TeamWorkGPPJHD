@@ -27,7 +27,7 @@ void QuickSortImpl(vector<int>& values, int l, int r) {
 }
 
 vector<int> quick_sort_by_Devyatkina(vector<int> values) {
-    if (values.size() > 0) {  // Заменено на проверку размера
+    if (values.size() > 0) {  
         QuickSortImpl(values, 0, values.size() - 1);
     }
     return values;
