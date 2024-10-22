@@ -71,6 +71,7 @@ int main()
             RUN(heapsort_by_Name);
             RUN(quick_sort_by_Name);
             RUN(shellsort_by_Name);
+            RUN(merge_sort_by_Petrukhina);
 
             intDataSets.pop();
         }
