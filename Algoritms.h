@@ -13,5 +13,6 @@ std::vector<int> merge_sort_by_Name(std::vector<int> data);
 std::vector<int> quick_sort_by_Name(std::vector<int> data);
 std::vector<int> merge_sort_by_Petrukhina(std::vector<int> data);
 std::vector<int> quick_sort_by_Devyatkina(std::vector<int> data);
+std::vector<int> tree_sort_by_Khaysarova(std::vector<int> data);
 //---------------------------------------------------------------
 

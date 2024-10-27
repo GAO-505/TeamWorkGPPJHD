@@ -73,6 +73,7 @@ int main()
             RUN(shellsort_by_Name);
             RUN(merge_sort_by_Petrukhina);
             RUN(quick_sort_by_Devyatkina)
+            RUN(tree_sort_by_Khaysarova)
             intDataSets.pop();
         }
     }
