@@ -127,13 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="heap_sort_by_Name.cpp" />
-    <ClCompile Include="merge_sort_by_Name.cpp" />
-    <ClCompile Include="quick_sort_by_Name.cpp" />
-    <ClCompile Include="shell_sort_by_Name.cpp" />
+    <ClCompile Include="bitonic_sort_Pudovnin.cpp" />
+    <ClCompile Include="counting_Sort_by_li.cpp" />
+    <ClCompile Include="merge_sort_by_Petrukhina.cpp" />
+    <ClCompile Include="quick_sort_by_Devyatkina.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="TeamWorkGPJHPD.cpp" />
     <ClCompile Include="DataGenerators.cpp" />
+    <ClCompile Include="tree_sort_by_Khaysarova.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.h" />

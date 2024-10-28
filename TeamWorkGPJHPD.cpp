@@ -55,8 +55,6 @@ void Run(string method_name, Participant<T> p, vector<T> data)
 int main()
 {
     {
-        cout << endl << "**************INTEGER RACE**************" << endl << endl;
-
         auto intDataSets = GenerateIntDataSets();
         while (!intDataSets.empty())
         {
@@ -67,13 +65,14 @@ int main()
             team = "std";
             RUN(sort_by_std);
             team = "GazdikTeam";
-            RUN(merge_sort_by_Name);
-            RUN(heapsort_by_Name);
-            RUN(quick_sort_by_Name);
-            RUN(shellsort_by_Name);
-            RUN(merge_sort_by_Petrukhina);
-            RUN(quick_sort_by_Devyatkina)
-            RUN(tree_sort_by_Khaysarova)
+
+            //RUN(merge_sort_by_Petrukhina); // Proveril rabotat
+            //RUN(quick_sort_by_Devyatkina); // rabotaet
+            //RUN(tree_sort_by_Khaysarova); // rabotaet
+            //RUN(bitonic_sort_by_Pudovnin); Ne rabotaet, ne sortiruet!!!!!
+            
+            // Li your algoritm doesnt work when you call a function
+            
             intDataSets.pop();
         }
     }

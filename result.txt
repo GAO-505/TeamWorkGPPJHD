@@ -1,60 +1,24 @@
-"IVC data sequential reverse"	497	std	sort	std	219
-"IVC data sequential reverse"	497	GazdikTeam	merge_sort	name	322
-"IVC data sequential reverse"	497	GazdikTeam	heapsort	name	389
-"IVC data sequential reverse"	497	GazdikTeam	quick_sort	name	317
-"IVC data sequential reverse"	497	GazdikTeam	shellsort	name	339
-"IVC data forward"	501	std	sort	std	147
-"IVC data forward"	501	GazdikTeam	merge_sort	name	313
-"IVC data forward"	501	GazdikTeam	heapsort	name	433
-"IVC data forward"	501	GazdikTeam	quick_sort	name	7151
-"IVC data forward"	501	GazdikTeam	shellsort	name	170
-"inverse sorted array"	99	std	sort	std	44
-"inverse sorted array"	99	GazdikTeam	merge_sort	name	81
-"inverse sorted array"	99	GazdikTeam	heapsort	name	73
-"inverse sorted array"	99	GazdikTeam	quick_sort	name	192
-"inverse sorted array"	99	GazdikTeam	shellsort	name	36
-"partially sorted array"	100	std	sort	std	22
-"partially sorted array"	100	GazdikTeam	merge_sort	name	52
-"partially sorted array"	100	GazdikTeam	heapsort	name	60
-"partially sorted array"	100	GazdikTeam	quick_sort	name	217
-"partially sorted array"	100	GazdikTeam	shellsort	name	22
-"already sorted array"	20	std	sort	std	9
-"already sorted array"	20	GazdikTeam	merge_sort	name	14
-"already sorted array"	20	GazdikTeam	heapsort	name	11
-"already sorted array"	20	GazdikTeam	quick_sort	name	10
-"already sorted array"	20	GazdikTeam	shellsort	name	8
-"minus integer"	100	std	sort	std	45
-"minus integer"	100	GazdikTeam	merge_sort	name	61
-"minus integer"	100	GazdikTeam	heapsort	name	58
-"minus integer"	100	GazdikTeam	quick_sort	name	33
-"minus integer"	100	GazdikTeam	shellsort	name	40
-"random integer 1000"	1000	std	sort	std	550
-"random integer 1000"	1000	GazdikTeam	merge_sort	name	796
-"random integer 1000"	1000	GazdikTeam	heapsort	name	919
-"random integer 1000"	1000	GazdikTeam	quick_sort	name	493
-"random integer 1000"	1000	GazdikTeam	shellsort	name	769
-"random integer 100"	100	std	sort	std	41
-"random integer 100"	100	GazdikTeam	merge_sort	name	61
-"random integer 100"	100	GazdikTeam	heapsort	name	58
-"random integer 100"	100	GazdikTeam	quick_sort	name	42
-"random integer 100"	100	GazdikTeam	shellsort	name	44
-"random integer 10"	10	std	sort	std	7
-"random integer 10"	10	GazdikTeam	merge_sort	name	10
-"random integer 10"	10	GazdikTeam	heapsort	name	7
-"random integer 10"	10	GazdikTeam	quick_sort	name	6
-"random integer 10"	10	GazdikTeam	shellsort	name	6
-"Same numbers"	1000	std	sort	std	48
-"Same numbers"	1000	GazdikTeam	merge_sort	name	649
-"Same numbers"	1000	GazdikTeam	heapsort	name	113
-"Same numbers"	1000	GazdikTeam	quick_sort	name	24396
-"Same numbers"	1000	GazdikTeam	shellsort	name	411
-"Swapped first and last"	1000	std	sort	std	373
-"Swapped first and last"	1000	GazdikTeam	merge_sort	name	681
-"Swapped first and last"	1000	GazdikTeam	heapsort	name	1168
-"Swapped first and last"	1000	GazdikTeam	quick_sort	name	22418
-"Swapped first and last"	1000	GazdikTeam	shellsort	name	262
-"zeros by tm"	3	std	sort	std	7
-"zeros by tm"	3	GazdikTeam	merge_sort	name	8
-"zeros by tm"	3	GazdikTeam	heapsort	name	5
-"zeros by tm"	3	GazdikTeam	quick_sort	name	5
-"zeros by tm"	3	GazdikTeam	shellsort	name	5
+"IVC data sequential reverse"	497	std	sort	std	232
+"IVC data sequential reverse"	497	GazdikTeam	tree_sort	khaysarova	77103
+"IVC data forward"	501	std	sort	std	96
+"IVC data forward"	501	GazdikTeam	tree_sort	khaysarova	66872
+"inverse sorted array"	99	std	sort	std	30
+"inverse sorted array"	99	GazdikTeam	tree_sort	khaysarova	9025
+"partially sorted array"	100	std	sort	std	23
+"partially sorted array"	100	GazdikTeam	tree_sort	khaysarova	10030
+"already sorted array"	20	std	sort	std	12
+"already sorted array"	20	GazdikTeam	tree_sort	khaysarova	1959
+"minus integer"	100	std	sort	std	52
+"minus integer"	100	GazdikTeam	tree_sort	khaysarova	12774
+"random integer 1000"	1000	std	sort	std	617
+"random integer 1000"	1000	GazdikTeam	tree_sort	khaysarova	178444
+"random integer 100"	100	std	sort	std	42
+"random integer 100"	100	GazdikTeam	tree_sort	khaysarova	15832
+"random integer 10"	10	std	sort	std	8
+"random integer 10"	10	GazdikTeam	tree_sort	khaysarova	2032
+"Same numbers"	1000	std	sort	std	42
+"Same numbers"	1000	GazdikTeam	tree_sort	khaysarova	78252
+"Swapped first and last"	1000	std	sort	std	239
+"Swapped first and last"	1000	GazdikTeam	tree_sort	khaysarova	150301
+"zeros by tm"	3	std	sort	std	8
+"zeros by tm"	3	GazdikTeam	tree_sort	khaysarova	630

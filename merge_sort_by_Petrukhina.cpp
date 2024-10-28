@@ -1,5 +1,4 @@
 ﻿#include <vector>
-
 using namespace std;
 
 void merge_sort_recursion(vector<int>& data, int right, vector<int>& temp, int left) {

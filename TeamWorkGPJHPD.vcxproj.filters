@@ -2,23 +2,26 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="TeamWorkGPJHPD.cpp" />
-    <ClCompile Include="heap_sort_by_Name.cpp">
-      <Filter>SortAlgoritms</Filter>
-    </ClCompile>
-    <ClCompile Include="merge_sort_by_Name.cpp">
-      <Filter>SortAlgoritms</Filter>
-    </ClCompile>
-    <ClCompile Include="shell_sort_by_Name.cpp">
-      <Filter>SortAlgoritms</Filter>
-    </ClCompile>
-    <ClCompile Include="quick_sort_by_Name.cpp">
-      <Filter>SortAlgoritms</Filter>
-    </ClCompile>
     <ClCompile Include="std_sort.cpp">
       <Filter>SortAlgoritms</Filter>
     </ClCompile>
     <ClCompile Include="DataGenerators.cpp">
       <Filter>Data</Filter>
+    </ClCompile>
+    <ClCompile Include="bitonic_sort_Pudovnin.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="counting_Sort_by_li.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort_by_Petrukhina.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort_by_Devyatkina.cpp">
+      <Filter>SortAlgoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_sort_by_Khaysarova.cpp">
+      <Filter>SortAlgoritms</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
