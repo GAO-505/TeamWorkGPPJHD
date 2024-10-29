@@ -69,8 +69,8 @@ int main()
             //RUN(merge_sort_by_Petrukhina); // Proveril rabotat
             //RUN(quick_sort_by_Devyatkina); // rabotaet
             //RUN(tree_sort_by_Khaysarova); // rabotaet
-            //RUN(bitonic_sort_by_Pudovnin); //Ne rabotaet, ne sortiruet!!!!!
-            RUN(counting_Sort_by_li);
+            RUN(bitonic_sort_by_Pudovnin); //Ne rabotaet, ne sortiruet!!!!!
+            RUN(counting_Sort_By_Li);
             // Li your algoritm doesnt work when you call a function
             
             intDataSets.pop();

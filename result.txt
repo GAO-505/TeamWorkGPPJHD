@@ -1,24 +1,36 @@
-"IVC data sequential reverse"	497	std	sort	std	254
-"IVC data sequential reverse"	497	GazdikTeam	counting_sort	li	-1
-"IVC data forward"	501	std	sort	std	106
-"IVC data forward"	501	GazdikTeam	counting_sort	li	61252
-"inverse sorted array"	99	std	sort	std	35
-"inverse sorted array"	99	GazdikTeam	counting_sort	li	-1
-"partially sorted array"	100	std	sort	std	21
-"partially sorted array"	100	GazdikTeam	counting_sort	li	-1
-"already sorted array"	20	std	sort	std	13
-"already sorted array"	20	GazdikTeam	counting_sort	li	-1
-"minus integer"	100	std	sort	std	45
-"minus integer"	100	GazdikTeam	counting_sort	li	-1
+"IVC data sequential reverse"	497	std	sort	std	214
+"IVC data sequential reverse"	497	GazdikTeam	bitonic_sort	pudovnin	925
+"IVC data sequential reverse"	497	GazdikTeam	counting_sort	li	117989
+"IVC data forward"	501	std	sort	std	108
+"IVC data forward"	501	GazdikTeam	bitonic_sort	pudovnin	770
+"IVC data forward"	501	GazdikTeam	counting_sort	li	85224
+"inverse sorted array"	99	std	sort	std	29
+"inverse sorted array"	99	GazdikTeam	bitonic_sort	pudovnin	137
+"inverse sorted array"	99	GazdikTeam	counting_sort	li	17067
+"partially sorted array"	100	std	sort	std	23
+"partially sorted array"	100	GazdikTeam	bitonic_sort	pudovnin	133
+"partially sorted array"	100	GazdikTeam	counting_sort	li	17345
+"already sorted array"	20	std	sort	std	11
+"already sorted array"	20	GazdikTeam	bitonic_sort	pudovnin	33
+"already sorted array"	20	GazdikTeam	counting_sort	li	3775
+"minus integer"	100	std	sort	std	48
+"minus integer"	100	GazdikTeam	bitonic_sort	pudovnin	170
+"minus integer"	100	GazdikTeam	counting_sort	li	17201
 "random integer 1000"	1000	std	sort	std	527
-"random integer 1000"	1000	GazdikTeam	counting_sort	li	-1
-"random integer 100"	100	std	sort	std	50
-"random integer 100"	100	GazdikTeam	counting_sort	li	-1
-"random integer 10"	10	std	sort	std	15
-"random integer 10"	10	GazdikTeam	counting_sort	li	-1
-"Same numbers"	1000	std	sort	std	51
-"Same numbers"	1000	GazdikTeam	counting_sort	li	67804
-"Swapped first and last"	1000	std	sort	std	300
-"Swapped first and last"	1000	GazdikTeam	counting_sort	li	-1
-"zeros by tm"	3	std	sort	std	8
-"zeros by tm"	3	GazdikTeam	counting_sort	li	650
+"random integer 1000"	1000	GazdikTeam	bitonic_sort	pudovnin	1788
+"random integer 1000"	1000	GazdikTeam	counting_sort	li	192506
+"random integer 100"	100	std	sort	std	43
+"random integer 100"	100	GazdikTeam	bitonic_sort	pudovnin	142
+"random integer 100"	100	GazdikTeam	counting_sort	li	20435
+"random integer 10"	10	std	sort	std	9
+"random integer 10"	10	GazdikTeam	bitonic_sort	pudovnin	20
+"random integer 10"	10	GazdikTeam	counting_sort	li	3386
+"Same numbers"	1000	std	sort	std	59
+"Same numbers"	1000	GazdikTeam	bitonic_sort	pudovnin	1607
+"Same numbers"	1000	GazdikTeam	counting_sort	li	173058
+"Swapped first and last"	1000	std	sort	std	313
+"Swapped first and last"	1000	GazdikTeam	bitonic_sort	pudovnin	2436
+"Swapped first and last"	1000	GazdikTeam	counting_sort	li	147146
+"zeros by tm"	3	std	sort	std	12
+"zeros by tm"	3	GazdikTeam	bitonic_sort	pudovnin	19
+"zeros by tm"	3	GazdikTeam	counting_sort	li	791
