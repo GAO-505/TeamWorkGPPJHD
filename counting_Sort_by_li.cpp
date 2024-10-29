@@ -4,8 +4,8 @@
 
 using namespace std;
 
-void countingSort(vector<int>& arr) {
-    if (arr.empty()) return;
+vector<int> countingSort(vector<int>& arr) {
+
 
     int maxVal = *max_element(arr.begin(), arr.end());
     int minVal = *min_element(arr.begin(), arr.end());
@@ -35,4 +35,5 @@ void countingSort(vector<int>& arr) {
 
     // 将结果复制回原数组
     arr = result;
+    return arr;
 }
