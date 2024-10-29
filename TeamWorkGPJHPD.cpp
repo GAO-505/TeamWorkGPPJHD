@@ -66,12 +66,12 @@ int main()
             RUN(sort_by_std);
 
             team = "GazdikTeam";
-            //RUN(merge_sort_by_Petrukhina); // Proveril rabotat
-            //RUN(quick_sort_by_Devyatkina); // rabotaet
-            //RUN(tree_sort_by_Khaysarova); // rabotaet
-            RUN(bitonic_sort_by_Pudovnin); //Ne rabotaet, ne sortiruet!!!!!
+            RUN(merge_sort_by_Petrukhina);
+            RUN(quick_sort_by_Devyatkina);
+            RUN(tree_sort_by_Khaysarova);
+            RUN(bitonic_sort_by_Pudovnin);
             RUN(counting_Sort_By_Li);
-            // Li your algoritm doesnt work when you call a function
+            
             
             intDataSets.pop();
         }
