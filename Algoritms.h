@@ -11,6 +11,8 @@ std::vector<int> merge_sort_by_Petrukhina(std::vector<int> data);
 std::vector<int> quick_sort_by_Devyatkina(std::vector<int> data);
 std::vector<int> tree_sort_by_Khaysarova(std::vector<int> data);
 std::vector<int> bitonic_sort_by_Pudovnin(std::vector<int> data);
+std::vector<int> counting_Sort_by_li(std::vector<int> data);
+
 // Li put call func here
 //---------------------------------------------------------------
 

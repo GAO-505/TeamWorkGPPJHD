@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector<int> countingSort(vector<int>& arr) {
+void countingSort(vector<int>& arr) {
 
 
     int maxVal = *max_element(arr.begin(), arr.end());
@@ -32,8 +32,16 @@ vector<int> countingSort(vector<int>& arr) {
         result[sortIndex - 1] = arr[i];
         mark[arr[i] - minVal]--;
     }
-
-    // 将结果复制回原数组
-    arr = result;
-    return arr;
+}
+vector<int> counting_Sort_by_li(vector<int> data) {
+    vector<int> temp(data.size());
+    if (data.size() > 0) {
+        countingSort(data);
+    }
+    cout << "li algo" << endl;
+    for (int elem : data) {
+        cout << elem << " ";
+    }
+    cout << 'end' << endl;
+    return data;
 }

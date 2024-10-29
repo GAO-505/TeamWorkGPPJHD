@@ -1,24 +1,24 @@
-"IVC data sequential reverse"	497	std	sort	std	232
-"IVC data sequential reverse"	497	GazdikTeam	tree_sort	khaysarova	77103
-"IVC data forward"	501	std	sort	std	96
-"IVC data forward"	501	GazdikTeam	tree_sort	khaysarova	66872
-"inverse sorted array"	99	std	sort	std	30
-"inverse sorted array"	99	GazdikTeam	tree_sort	khaysarova	9025
-"partially sorted array"	100	std	sort	std	23
-"partially sorted array"	100	GazdikTeam	tree_sort	khaysarova	10030
-"already sorted array"	20	std	sort	std	12
-"already sorted array"	20	GazdikTeam	tree_sort	khaysarova	1959
-"minus integer"	100	std	sort	std	52
-"minus integer"	100	GazdikTeam	tree_sort	khaysarova	12774
-"random integer 1000"	1000	std	sort	std	617
-"random integer 1000"	1000	GazdikTeam	tree_sort	khaysarova	178444
-"random integer 100"	100	std	sort	std	42
-"random integer 100"	100	GazdikTeam	tree_sort	khaysarova	15832
-"random integer 10"	10	std	sort	std	8
-"random integer 10"	10	GazdikTeam	tree_sort	khaysarova	2032
-"Same numbers"	1000	std	sort	std	42
-"Same numbers"	1000	GazdikTeam	tree_sort	khaysarova	78252
-"Swapped first and last"	1000	std	sort	std	239
-"Swapped first and last"	1000	GazdikTeam	tree_sort	khaysarova	150301
+"IVC data sequential reverse"	497	std	sort	std	254
+"IVC data sequential reverse"	497	GazdikTeam	counting_sort	li	-1
+"IVC data forward"	501	std	sort	std	106
+"IVC data forward"	501	GazdikTeam	counting_sort	li	61252
+"inverse sorted array"	99	std	sort	std	35
+"inverse sorted array"	99	GazdikTeam	counting_sort	li	-1
+"partially sorted array"	100	std	sort	std	21
+"partially sorted array"	100	GazdikTeam	counting_sort	li	-1
+"already sorted array"	20	std	sort	std	13
+"already sorted array"	20	GazdikTeam	counting_sort	li	-1
+"minus integer"	100	std	sort	std	45
+"minus integer"	100	GazdikTeam	counting_sort	li	-1
+"random integer 1000"	1000	std	sort	std	527
+"random integer 1000"	1000	GazdikTeam	counting_sort	li	-1
+"random integer 100"	100	std	sort	std	50
+"random integer 100"	100	GazdikTeam	counting_sort	li	-1
+"random integer 10"	10	std	sort	std	15
+"random integer 10"	10	GazdikTeam	counting_sort	li	-1
+"Same numbers"	1000	std	sort	std	51
+"Same numbers"	1000	GazdikTeam	counting_sort	li	67804
+"Swapped first and last"	1000	std	sort	std	300
+"Swapped first and last"	1000	GazdikTeam	counting_sort	li	-1
 "zeros by tm"	3	std	sort	std	8
-"zeros by tm"	3	GazdikTeam	tree_sort	khaysarova	630
+"zeros by tm"	3	GazdikTeam	counting_sort	li	650
