@@ -39,8 +39,8 @@ vector<int> counting_Sort_by_li(vector<int> data) {
         countingSort(data);
     }
     cout << "li algo" << endl;
-    for (int elem : data) {
-        cout << elem << " ";
+    for (int num : data) {
+        cout << num << " ";
     }
     cout << 'end' << endl;
     return data;
