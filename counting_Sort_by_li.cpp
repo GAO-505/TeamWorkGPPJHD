@@ -32,6 +32,8 @@ void countingSort(vector<int>& arr) {
         result[sortIndex - 1] = arr[i];
         mark[arr[i] - minVal]--;
     }
+    arr=result;
+    return arr;
 }
 vector<int> counting_Sort_by_li(vector<int> data) {
     vector<int> temp(data.size());
