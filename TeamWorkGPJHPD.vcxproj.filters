@@ -40,4 +40,9 @@
       <UniqueIdentifier>{b417bb3f-60a0-4cee-b196-72e5a5363f86}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="result.txt">
+      <Filter>Data</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

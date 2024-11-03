@@ -140,6 +140,9 @@
     <ClInclude Include="Data.h" />
     <ClInclude Include="Algoritms.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="result.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

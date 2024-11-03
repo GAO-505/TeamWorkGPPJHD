@@ -1,36 +1,60 @@
-"IVC data sequential reverse"	497	std	sort	std	214
-"IVC data sequential reverse"	497	GazdikTeam	bitonic_sort	pudovnin	925
-"IVC data sequential reverse"	497	GazdikTeam	counting_sort	li	117989
-"IVC data forward"	501	std	sort	std	108
-"IVC data forward"	501	GazdikTeam	bitonic_sort	pudovnin	770
-"IVC data forward"	501	GazdikTeam	counting_sort	li	85224
-"inverse sorted array"	99	std	sort	std	29
-"inverse sorted array"	99	GazdikTeam	bitonic_sort	pudovnin	137
-"inverse sorted array"	99	GazdikTeam	counting_sort	li	17067
-"partially sorted array"	100	std	sort	std	23
-"partially sorted array"	100	GazdikTeam	bitonic_sort	pudovnin	133
-"partially sorted array"	100	GazdikTeam	counting_sort	li	17345
-"already sorted array"	20	std	sort	std	11
-"already sorted array"	20	GazdikTeam	bitonic_sort	pudovnin	33
-"already sorted array"	20	GazdikTeam	counting_sort	li	3775
-"minus integer"	100	std	sort	std	48
-"minus integer"	100	GazdikTeam	bitonic_sort	pudovnin	170
-"minus integer"	100	GazdikTeam	counting_sort	li	17201
-"random integer 1000"	1000	std	sort	std	527
-"random integer 1000"	1000	GazdikTeam	bitonic_sort	pudovnin	1788
-"random integer 1000"	1000	GazdikTeam	counting_sort	li	192506
-"random integer 100"	100	std	sort	std	43
-"random integer 100"	100	GazdikTeam	bitonic_sort	pudovnin	142
-"random integer 100"	100	GazdikTeam	counting_sort	li	20435
-"random integer 10"	10	std	sort	std	9
-"random integer 10"	10	GazdikTeam	bitonic_sort	pudovnin	20
-"random integer 10"	10	GazdikTeam	counting_sort	li	3386
-"Same numbers"	1000	std	sort	std	59
-"Same numbers"	1000	GazdikTeam	bitonic_sort	pudovnin	1607
-"Same numbers"	1000	GazdikTeam	counting_sort	li	173058
-"Swapped first and last"	1000	std	sort	std	313
-"Swapped first and last"	1000	GazdikTeam	bitonic_sort	pudovnin	2436
-"Swapped first and last"	1000	GazdikTeam	counting_sort	li	147146
-"zeros by tm"	3	std	sort	std	12
-"zeros by tm"	3	GazdikTeam	bitonic_sort	pudovnin	19
-"zeros by tm"	3	GazdikTeam	counting_sort	li	791
+"partially sorted array"	497	std	sort	std	44
+"partially sorted array"	497	GazdikTeam	merge_sort	petrukhina	54
+"partially sorted array"	497	GazdikTeam	quick_sort	devyatkina	39
+"partially sorted array"	497	GazdikTeam	tree_sort	khaysarova	214
+"partially sorted array"	497	GazdikTeam	bitonic_sort	pudovnin	101
+"partially sorted array"	497	GazdikTeam	counting_sort	li	13
+"inverse sorted array"	99	std	sort	std	3
+"inverse sorted array"	99	GazdikTeam	merge_sort	petrukhina	8
+"inverse sorted array"	99	GazdikTeam	quick_sort	devyatkina	12
+"inverse sorted array"	99	GazdikTeam	tree_sort	khaysarova	28
+"inverse sorted array"	99	GazdikTeam	bitonic_sort	pudovnin	17
+"inverse sorted array"	99	GazdikTeam	counting_sort	li	5
+"sorted array"	977	std	sort	std	24
+"sorted array"	977	GazdikTeam	merge_sort	petrukhina	52
+"sorted array"	977	GazdikTeam	quick_sort	devyatkina	931
+"sorted array"	977	GazdikTeam	tree_sort	khaysarova	2920
+"sorted array"	977	GazdikTeam	bitonic_sort	pudovnin	126
+"sorted array"	977	GazdikTeam	counting_sort	li	19
+"minus integer"	100	std	sort	std	7
+"minus integer"	100	GazdikTeam	merge_sort	petrukhina	11
+"minus integer"	100	GazdikTeam	quick_sort	devyatkina	7
+"minus integer"	100	GazdikTeam	tree_sort	khaysarova	19
+"minus integer"	100	GazdikTeam	bitonic_sort	pudovnin	23
+"minus integer"	100	GazdikTeam	counting_sort	li	4
+"Same numbers"	1000	std	sort	std	1
+"Same numbers"	1000	GazdikTeam	merge_sort	petrukhina	47
+"Same numbers"	1000	GazdikTeam	quick_sort	devyatkina	781
+"Same numbers"	1000	GazdikTeam	tree_sort	khaysarova	2850
+"Same numbers"	1000	GazdikTeam	bitonic_sort	pudovnin	117
+"Same numbers"	1000	GazdikTeam	counting_sort	li	20
+"Swapped first and last"	1000	std	sort	std	18
+"Swapped first and last"	1000	GazdikTeam	merge_sort	petrukhina	53
+"Swapped first and last"	1000	GazdikTeam	quick_sort	devyatkina	998
+"Swapped first and last"	1000	GazdikTeam	tree_sort	khaysarova	2838
+"Swapped first and last"	1000	GazdikTeam	bitonic_sort	pudovnin	134
+"Swapped first and last"	1000	GazdikTeam	counting_sort	li	27
+"big num, small size"	3	std	sort	std	0
+"big num, small size"	3	GazdikTeam	merge_sort	petrukhina	0
+"big num, small size"	3	GazdikTeam	quick_sort	devyatkina	0
+"big num, small size"	3	GazdikTeam	tree_sort	khaysarova	0
+"big num, small size"	3	GazdikTeam	bitonic_sort	pudovnin	0
+"big num, small size"	3	GazdikTeam	counting_sort	li	15184
+"random integer 1000000"	100000	std	sort	std	15205
+"random integer 1000000"	100000	GazdikTeam	merge_sort	petrukhina	22277
+"random integer 1000000"	100000	GazdikTeam	quick_sort	devyatkina	14549
+"random integer 1000000"	100000	GazdikTeam	tree_sort	khaysarova	55844
+"random integer 1000000"	100000	GazdikTeam	bitonic_sort	pudovnin	61951
+"random integer 1000000"	100000	GazdikTeam	counting_sort	li	2447
+"random integer 1000"	1000	std	sort	std	179
+"random integer 1000"	1000	GazdikTeam	merge_sort	petrukhina	171
+"random integer 1000"	1000	GazdikTeam	quick_sort	devyatkina	107
+"random integer 1000"	1000	GazdikTeam	tree_sort	khaysarova	385
+"random integer 1000"	1000	GazdikTeam	bitonic_sort	pudovnin	334
+"random integer 1000"	1000	GazdikTeam	counting_sort	li	419
+"random integer 100"	100	std	sort	std	9
+"random integer 100"	100	GazdikTeam	merge_sort	petrukhina	14
+"random integer 100"	100	GazdikTeam	quick_sort	devyatkina	7
+"random integer 100"	100	GazdikTeam	tree_sort	khaysarova	22
+"random integer 100"	100	GazdikTeam	bitonic_sort	pudovnin	27
+"random integer 100"	100	GazdikTeam	counting_sort	li	417
